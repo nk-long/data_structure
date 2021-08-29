@@ -1,3 +1,4 @@
+package ds_program;
 import java.util.Scanner;
 
 public class Tree {

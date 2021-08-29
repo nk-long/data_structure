@@ -1,3 +1,4 @@
+package ds;
 class MyLinkedList {
     Node head,tail;
     

@@ -1,3 +1,4 @@
+package ds;
 public class DoubblyLinklist {
     Node head,tail;
 

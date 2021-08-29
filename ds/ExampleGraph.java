@@ -1,3 +1,4 @@
+package ds;
 import java.util.LinkedList;
 
 public class ExampleGraph {

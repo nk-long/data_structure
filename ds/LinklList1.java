@@ -1,3 +1,4 @@
+package ds;
 class LinkLinkOp{
     Node head;
     Node tail;

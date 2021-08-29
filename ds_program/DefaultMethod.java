@@ -1,3 +1,4 @@
+package ds_program;
 interface demo{
     default void print(){
         System.out.println("interface default method");
